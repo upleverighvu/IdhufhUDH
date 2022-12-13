@@ -11,8 +11,6 @@ on:
       - '**.hpp'
       - '**.ino'
       - '**.json'
-      - '**.properties'
-      - 'pio-tools/*.py'
       - '**.ini'
       - '.github/workflows/build_all_the_things.yml'
 
